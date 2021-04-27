@@ -1,12 +1,11 @@
--  ✌ Eae, am @Guilherm-Macena, live in Brazil.
-- 👀 Tenho interesse em aprender sobre tecnologia e programação para desenvolver projetos pessoais ou profissionais.
-- 🌱 I’m currently learning Python,.
- 
--🧐 2 years ago i reviewwed programming logic, with "portugol" in Visualg.
-     I browsed little in C++ for programming in Arduinos and micro Controllers.
-     I saw very little Javascript to use Node-Red.
-     A few years ago i studied a little about HTML.
-     
--🤓 I am a layman in affairs, but i love to learn:
-     I AM MOTIVATED TO LEARN TO DEVELOP SOLUTIONS!
-     
+- ✌ Eae, sou Guilherme, moro no Brasil.
+
+- 🧐 Atualmente estou estudando e me familiarizando com Python 🐍.
+
+- 🤓 Comecei a estudar e me aprofundar em programação a mais ou menos 2 anos:
+      Aprendi lógica de programação, com "prtugol" usando o Visualg
+      Usei C++ para programar Arduinos e micro Controladores.
+      Vi um pouco de Javascript em funções dentro da plataforma Node-red.
+      A muitos anos atrás tive um contato com HTML.
+      
+- 🧠 Sou leigo nos assuntos, mas estou motivado a aprender a desenvolver soluções usando programação!
