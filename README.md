@@ -1,5 +1,5 @@
 - ✌ Eae, sou Guilherme, moro no Brasil.
-
-- 🧐 Atualmente estou estudando e me familiarizando com Python 🐍.
       
-- 🧠 Sou leigo nos assuntos, mas estou motivado a aprender a desenvolver soluções usando programação!
+- 🧠 Estou motivado a aprender a desenvolver soluções usando programação!
+Sou muito interessado na área de tecnologia em geral, tentando sempre aprender um pouquinho mais sobre esse mesclado tão amplo.
+
