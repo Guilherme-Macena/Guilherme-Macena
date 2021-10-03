@@ -1,7 +1,7 @@
 <h1 align="center">   Eae ✌ sou o Guilherme, estou no <img width="50" height="50" src="https://images.emojiterra.com/google/noto-emoji/unicode-13.1/128px/1f1e7-1f1f7.png"/>  </h1>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-macena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-macena&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilherme-macena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-macena&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center">
