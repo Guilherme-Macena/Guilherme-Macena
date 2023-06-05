@@ -1,31 +1,35 @@
 <h1 align="left"> 
-  Guilherme Macena </h1>
+  <i><b> Guilherme Macena 
+    <a href="https://www.linkedin.com/in/guilherme-macena-63a1501b7/" target="_blank"><img width="100px" align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</h1>
+ 
+
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilherme-macena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-macena&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<!-- 
+
 <div align="center">
 <p><b>
       
-- Estou matriculado em uma graduação de tecnologia da automação, exatamente no 4 período. 
-  No momento tranqueia, porém tenho previsão de retorno em 2022.
-  Na faculdade aprendi um pouco sobre lógica de programação com Visualg, famoso "portugol".
-  Aprendi C++, para programar Arduinos para desenvolver projetos dentro das matérias, um pouco de Python para RaspberryPi.
-  Porém a faculdade não é tão voltada para programação em si, por ser mais industrial, as matérias são mais relacionadas
-  a robótica, elétrica, diagramas, etc...
+- Estudante de Análise e desenvolvimento de Sistemas, estou buscando fazer transição de carreira para a áreas de técnologia,
+me candidatando para estágios, para que dessa forma possa ingressar no mercado de trabalho e adquirir experiência
+trabalhando ao lado de proffionais especialistas no que fazem, podendo assim aprender as metodologias de um bom profissional
+que desencvolve softwares.
       
-- Sempre que possível participo de intensivos sobre programação, para reforçar os conceitos e sempre aprender mais. 
-  A linguagem que estou mais "familiarizado" é Python no backend, foi a linguagem que fiz a introdução na programação.
-  Mas sempre que possível estou pesquisando uma coisa ou outra, sobre tecnologias e conhecimentos que possam agregar na bagagem como 
-  Aspirante a desenvolvedor haha!
-      
-- Não trabalho na área e o networking que tenho é através dos conteúdos nas redes sociais,
-  publicados por pessoas que sigo que estão na área da tecnologia.
-  Sou muito interessado na área de tecnologia em geral, 
-  tentando sempre aprender um pouquinho mais sobre esse mercado tão amplo.
-
-- Estou motivado a aprender a desenvolver soluções usando programação!
- </b></p>
+- Meu objetivo é trabalhar com a parte de backend, pois é a área que tenho um maior interesse, mas entendo que de certa forma precisamos ter um conhecimento generalista das áreas que envolvem o desenvolvimento de software como um todo. Bagagem essa que está sendo bem esclarecida pela graduação, os conceitos mais técnicos são citados com certa frequência ao longo das matérias. Dando ênfase para os fundamentos do desenvolvimento de Softwares, desde a parte de design, até regras de negócios, buscando abordar de uma forma ampla arquitetura e ciências da computação.
+ 
+</b></p>
+  
 </div>
- -->
+
+<hr>
+
+<dl>
+  <dt>Soft Skills:<br> - Comunicação - Flexibilidade - Adptabilidade - Organizado - Empático - Colaborativo
+  <dt>Hard Skills:<br> - Pensamento analítico - Pacote office - Estudando inglês, boa interpretação e conhecimento básico.
+   <dt>Estudando:<br> - Python / SQL / Beckend / Lógica de Programação / Algoritimos / Dados (especialização)
+                 <br> - HTML / CSS / Figma / Frontiend (generalita)
+</dl>
+
+
