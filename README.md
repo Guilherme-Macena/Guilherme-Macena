@@ -29,7 +29,7 @@ que desencvolve softwares.
   <dt>Soft Skills:<br> - Comunicação - Flexibilidade - Adptabilidade - Organizado - Empático - Colaborativo
   <dt>Hard Skills:<br> - Pensamento analítico - Pacote office - Estudando inglês, boa interpretação e conhecimento básico.
    <dt>Estudando:<br> - Python / SQL / Beckend / Lógica de Programação / Algoritimos / Dados (especialização)
-                 <br> - HTML / CSS / Figma / Frontiend (generalita)
+                 <br> - HTML / CSS / Figma / Frontiend (generalista)
 </dl>
 
 
